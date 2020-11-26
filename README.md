@@ -31,16 +31,15 @@ yarn tdd
 yarn server:dev
 ```
 
-**build**
+**Иuild**
 
 ```bash
 yarn build
 ```
 
-**start**
+**Start project**
 
 ```bash
-yarn build
 yarn start
 ```
 
