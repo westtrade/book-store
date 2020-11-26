@@ -31,7 +31,7 @@ yarn tdd
 yarn server:dev
 ```
 
-**Иuild**
+**Build**
 
 ```bash
 yarn build
